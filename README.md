@@ -1,4 +1,4 @@
-# 影视仓配置聚合仓库（TVBox Config Aggregator）
+# 影视仓配置聚合仓库（TVBox Config Aggregator） 纯小白fork的大佬配置
 
 ![配置状态](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FLightconer%2Ftvbox-ysc-config%2Fmain%2Foutput%2Fshield.json)
 ![更新频率](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0-%E6%AF%8F%E5%A4%A9%202%20%E6%AC%A1-blue)
